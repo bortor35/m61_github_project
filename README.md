@@ -1,2 +1,3 @@
 # m61_github_project  
-[คำนวณเงินเดือนสุทธิ](salary.py)
+[คำนวณเงินเดือนสุทธิ](salary.py)  
+[คำนวณค่าไฟ](electric_pill.py)
